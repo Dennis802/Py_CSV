@@ -20,6 +20,7 @@ def getPath(varname):
     config_full_path = os.path.join(application_path, varname)
     return config_full_path
 
+#asdasdasdasdasdasdasd
 
 brands = getPath('merken.txt')
 prodtype = getPath('types.txt')
